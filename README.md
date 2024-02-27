@@ -15,6 +15,10 @@ A project to create a automation tool allowing me to convert DOCX files to PDF f
 
 ## How it works and looks:
 
+
+https://github.com/JP0132/Python-GUI-PDF_converter/assets/78804278/e231790d-5982-4aaf-a16b-957aec6e3dc9
+
+
 ## How to run it?
 
 1. Clone the project or download the all the folders.
